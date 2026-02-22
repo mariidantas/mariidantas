@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF91A4FF&section=header&reversal=true">
 
-<h1 align="center"><a href=;"https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=BD0B4F&center=true&vCenter=true&width=450&height=60&lines=%CB%9A%CB%96%F0%93%8D%A2%D6%B4%E0%BB%8B%E2%9D%80+Welcome+to+my+Github!+;Mariana+Dantas+%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=ff91a4&center=true&vCenter=true&width=450&height=60&lines=%CB%9A%CB%96%F0%93%8D%A2%D6%B4%E0%BB%8B%E2%9D%80+Welcome+to+my+Github!+;Mariana+Dantas+%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80" alt="Typing SVG" /></a>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">🪼⋆.ೃ࿔*:･ Contacts</h2>
+<h2 align="left">🍓⋆.ೃ࿔*:･ Contacts</h2>
 
 ###
 
@@ -49,4 +49,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff91a4&section=footer&reversal=true">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF91A4FF&section=footer&reversal=true">
