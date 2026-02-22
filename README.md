@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="center">Information Systems student</p>
 
 ###
 
