@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hey! My name is Mariana Dantas, I am 19 years old and I live in São Paulo, Brazil. I am an Information Systems student at Universidade Presbiteriana Mackenzie.<br><br>Through this profile, I will share my projects and my progress in the field of technology.</p>
+<p align="left">Hey!❤︎ My name is Mariana Dantas, I am 19 years old and I live in São Paulo, Brazil. I am an Information Systems student at Universidade Presbiteriana Mackenzie.<br><br>Through this profile, I will share my projects and my progress in the field of technology.</p>
 
 ###
 
