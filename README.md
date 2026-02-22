@@ -1,16 +1,51 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
 
-<!--
-**mariidantas/mariidantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E40D5F&width=435&lines=%CB%9A%CB%96%F0%93%8D%A2%D6%B4%E0%BB%8B%E2%9D%80+Welcome+to+my+Github!+)](https://git.io/typing-svg) </h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"></p>
+
+###
+
+<h2 align="left"> ‧₊ ᵎᵎ 🍒 ˚✮ About me</h2>
+
+###
+
+<p align="left">Hey! My name is Mariana Dantas, I am 19 years old and I live in São Paulo, Brazil. I am an Information Systems student at Universidade Presbiteriana Mackenzie.<br><br>Through this profile, I will share my projects and my progress in the field of technology.</p>
+
+###
+
+<h2 align="left">˚.🎀༘⋆ Languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h2 align="left">🪼⋆.ೃ࿔*:･ Contacts</h2>
+
+###
+
+<a href="https://www.linkedin.com/in/mariana-dantas-395178254">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="maridantasdonasci@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
