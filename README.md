@@ -44,7 +44,5 @@
 
 ###
 
-<a href="https://www.linkedin.com/in/mariana-dantas-395178254">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"><(mailto:maridantasdonasci@gmail.com)">
+<a href="https://www.linkedin.com/in/mariana-dantas-395178254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:maridantasdonasci@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
