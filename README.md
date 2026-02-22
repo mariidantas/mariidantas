@@ -49,4 +49,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff91a4&section=footer&reversal=true">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff91a4&section=footer&reversal=true">
